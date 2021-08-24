@@ -12,3 +12,5 @@ these downfalls in the old code, the website is now better optimized for search 
 - HTML unnecessary classes removed
 
 Here is the link to Horiseon's page: https://chaldrich24.github.io/refactor-challenge/
+
+![Screentshot of web page](./assets/images/screenshot.png "Screenshot of Web Page")
