@@ -13,4 +13,8 @@ these downfalls in the old code, the website is now better optimized for search 
 
 Here is the link to Horiseon's page: https://chaldrich24.github.io/refactor-challenge/
 
-![Screentshot of web page](./assets/images/screenshot.png "Screenshot of Web Page")
+Below are screenshots of the web page:
+
+![Screentshot of top of web page](./assets/images/Screenshot-1.png "Screenshot of Web Page")
+![Screentshot of bottom of web page](./assets/images/Screenshot-2.png "Screenshot of Web Page")
+
